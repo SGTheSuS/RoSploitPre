@@ -1,5 +1,8 @@
--- [ InfSploit Pre ] --
--- [ Premium Version] --
+-- Inf Pre
+--  ___________________  --
+-- [  InfSploit   Pre  ] --
+--  \ Premium Version /  --
+--   -----------------   --
 
 
 -- // GUI \\ --
@@ -88,13 +91,13 @@ Rayfield:Notify({
 
 
 local Window = Rayfield:CreateWindow({
-	Name = "InfSploit",
+	Name = "InfSploit | Premium Version",
 	LoadingTitle = "Loading",
 	LoadingSubtitle = "Made by SG#6284",
 	ConfigurationSaving = {
 		Enabled = true,
 		FolderName = nil, -- Create a custom folder for your hub/game
-		FileName = "RoSploit"
+		FileName = "RoSploitPre"
 	},
         Discord = {
         	Enabled = true,
@@ -103,13 +106,13 @@ local Window = Rayfield:CreateWindow({
         },
 	KeySystem = true, -- Set this to true to use our key system
 	KeySettings = {
-		Title = "RoSploit XV",
+		Title = "RoSploit XV | Premium Version",
 		Subtitle = "Key System",
 		Note = "Join the discord (discord.io/RoSploit)",
-		FileName = "RoSploitKey",
+		FileName = "RoSploitPreKey",
 		SaveKey = true,
 		GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-		Key = "Sub2RoSploit"
+		Key = "RS_key2509"
 	}
 })
 
@@ -132,7 +135,7 @@ local Window = Rayfield:CreateWindow({
 local Tab = Window:CreateTab("Home", 7072717697) -- Title, Image
 
 
-local Paragraph = Tab:CreateParagraph({Title = "WELCOME!", Content = "Thank you for using my script."})
+local Paragraph = Tab:CreateParagraph({Title = "WELCOME!", Content = "Thanks for purchasing my premium script version."})
 
 local Section = Tab:CreateSection(" ")
 
@@ -1007,7 +1010,7 @@ local Paragraph = Tab:CreateParagraph({Title = "Chat Bypass note:", Content = "W
 
 
 
-local Tab = Window:CreateTab("PREMIUM SCRIPT", 5073085104) -- Title, Image
+local Tab = Window:CreateTab("PREMIUM SCRIPT", 10199826329) -- Title, Image
 
 local Section = Tab:CreateSection("The Premium Scripts:")
 
