@@ -91,7 +91,7 @@ Rayfield:Notify({
 
 
 local Window = Rayfield:CreateWindow({
-	Name = "InfSploit | Premium Version",
+	Name = "InfSploit | Premium Versionw",
 	LoadingTitle = "Loading",
 	LoadingSubtitle = "Made by SG#6284",
 	ConfigurationSaving = {
@@ -106,7 +106,7 @@ local Window = Rayfield:CreateWindow({
         },
 	KeySystem = true, -- Set this to true to use our key system
 	KeySettings = {
-		Title = "RoSploit XV | Premium Version",
+		Title = "RoSploit XV | Premium Versionw",
 		Subtitle = "Key System",
 		Note = "Join the discord (discord.io/RoSploit)",
 		FileName = "RoSploitPreKey",
